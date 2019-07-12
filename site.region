@@ -8,6 +8,7 @@
     {squarespace-headers}
   </head>
   <body id="{squarespace.page-id}" class="{squarespace.page-classes} test">
+    <div class="bg-blue-200">test tailwindcss</div>
 
     <div class="site-container">
 
