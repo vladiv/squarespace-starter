@@ -1,0 +1,9 @@
+linters:
+  PropertySortOrder:
+    order: smacss
+  StringQuotes:
+    style: double_quotes
+  HexLength:
+    style: long
+  SpaceBeforeBrace:
+    allow_single_line_padding: true
